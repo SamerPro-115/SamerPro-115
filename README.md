@@ -1,20 +1,4 @@
-<div align="center">
-  <img src="https://img.shields.io/badge/TikTok_Followers-60K+-000?style=for-the-badge&logo=tiktok&logoColor=white&labelColor=ff0050" alt="TikTok Followers"/>
-</div>
 
-<p align="center">
-  <a href="https://www.tiktok.com/@samerpro_" target="_blank">
-    <img src="https://img.shields.io/badge/TikTok-%40samerpro_-000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok Badge"/>
-  </a>
-  <a href="https://www.youtube.com/@SamerPro_" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-%40SamerPro_-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Badge"/>
-  </a>
-  <a href="https://www.linkedin.com/in/samer-alashqar-4a4327253" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Samer_Alashqar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-</p>
-
----
 
 **Frontend**
 <p>
@@ -42,6 +26,25 @@
 </p>
 
 ---
+
+
+<div align="center">
+  <img src="https://img.shields.io/badge/TikTok_Followers-60K+-000?style=for-the-badge&logo=tiktok&logoColor=white&labelColor=ff0050" alt="TikTok Followers"/>
+</div>
+
+<p align="center">
+  <a href="https://www.tiktok.com/@samerpro_" target="_blank">
+    <img src="https://img.shields.io/badge/TikTok-%40samerpro_-000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok Badge"/>
+  </a>
+  <a href="https://www.youtube.com/@SamerPro_" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-%40SamerPro_-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Badge"/>
+  </a>
+  <a href="https://www.linkedin.com/in/samer-alashqar-4a4327253" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Samer_Alashqar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</p>
+
+
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamerPro-115&layout=compact&theme=radical" alt="Top Languages" />
