@@ -63,7 +63,4 @@
 
 ---
 
-### 🤝 Let’s Build Something Great
-
-I'm always open to collaborations, freelance work, or just talking tech. Feel free to reach out through any platform!
 
