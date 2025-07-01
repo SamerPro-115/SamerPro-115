@@ -48,13 +48,6 @@
 
 ---
 
-### 📱 Connect with Me
-
-- 📲 TikTok: [@samerpro_](https://www.tiktok.com/@samerpro_) — **68K+ followers**
-- 📹 YouTube: [@SamerPro_](https://www.youtube.com/@SamerPro_)
-- 💼 LinkedIn: [Samer Alashqar](https://www.linkedin.com/in/samer-alashqar-4a4327253)
-
----
 
 ### 🧠 Currently Learning
 
