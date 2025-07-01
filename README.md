@@ -2,7 +2,7 @@
 <h3 align="center">Full-Stack Web Developer | Content Creator</h3>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/TikTok_Followers-68K+-000?style=for-the-badge&logo=tiktok&logoColor=white&labelColor=ff0050" alt="TikTok Followers"/>
+  <img src="https://img.shields.io/badge/TikTok_Followers-60K+-000?style=for-the-badge&logo=tiktok&logoColor=white&labelColor=ff0050" alt="TikTok Followers"/>
 </div>
 
 <p align="center">
