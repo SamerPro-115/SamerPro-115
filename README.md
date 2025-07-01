@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Samer</h1>
-<h3 align="center">Full-Stack Web Developer | Content Creator | Tech Educator</h3>
+<h3 align="center">Full-Stack Web Developer | Content Creator</h3>
 
 <p align="center">
   <a href="https://www.tiktok.com/@samerpro_" target="_blank">
