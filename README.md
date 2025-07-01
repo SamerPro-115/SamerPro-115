@@ -27,6 +27,14 @@
 
 ---
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamerPro-115&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+---
+
+---
+
 
 <div align="center">
   <img src="https://img.shields.io/badge/TikTok_Followers-60K+-000?style=for-the-badge&logo=tiktok&logoColor=white&labelColor=ff0050" alt="TikTok Followers"/>
@@ -42,12 +50,6 @@
   <a href="https://www.linkedin.com/in/samer-alashqar-4a4327253" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Samer_Alashqar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-</p>
-
-
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamerPro-115&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
