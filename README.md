@@ -57,13 +57,3 @@
 - **Next.js**
 
 ---
-
-### 📱 Latest TikTok Content
-
-<div align="center">
-  
-**JavaScript Tips** | **React Tutorial** | **Web Dev Tricks**
-:---: | :---: | :---:
-[![TikTok Video 1](https://www.tiktok.com/oembed?url=https://www.tiktok.com/@samerpro_/video/7214178179806760194)](https://www.tiktok.com/@samerpro_/video/7214178179806760194) | [![TikTok Video 2](https://www.tiktok.com/oembed?url=https://www.tiktok.com/@samerpro_/video/7319688131207286018)](https://www.tiktok.com/@samerpro_/video/7319688131207286018) | [![TikTok Video 3](https://www.tiktok.com/oembed?url=https://www.tiktok.com/@samerpro_/video/7378324589685771538)](https://www.tiktok.com/@samerpro_/video/7378324589685771538)
-
-</div>
