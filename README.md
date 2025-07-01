@@ -13,16 +13,6 @@
   </a>
 </p>
 
----
-
-### 🚀 About Me
-- 💻 I'm a passionate developer building modern web apps and digital solutions.
-- 📸 I'm also a tech content creator on **TikTok** and **YouTube**, sharing tutorials, tips, and tools with a combined following of over **68,000** people.
-- 🎬 Skilled in video editing using **Adobe Premiere Pro** and **DaVinci Resolve**.
-- 🌱 Currently diving deeper into **TypeScript** and **Next.js**.
-
----
-
 
 **Frontend**
 <p>
