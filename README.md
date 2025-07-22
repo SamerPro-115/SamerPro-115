@@ -56,6 +56,4 @@
 
 ### 🧠 Currently Learning
 - **TypeScript**
-- **Next.js**
-
 ---
