@@ -28,7 +28,7 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamerPro-115&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=SamerPro-115&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
 </p>
 ---
 
