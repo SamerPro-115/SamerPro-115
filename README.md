@@ -1,7 +1,7 @@
 
 
 <p align="center">
-  <i>"Great developers are researchers who code, not coders who search."</i>
+  <i>"Thank you for visiting my profile!</i>
 </p>
 
 ---
