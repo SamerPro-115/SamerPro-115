@@ -1,7 +1,7 @@
 
 
 <p align="center">
-  <i>"Thank you for visiting my profile!</i>
+  <i>"Thank you for visiting my profile!"</i>
 </p>
 
 ---
