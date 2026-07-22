@@ -1,61 +1,82 @@
 
+  <!-- Banner-->
+  <img src="/Imgs/Sam-github-banner-2.png" />
+
+<!-- Social Media-->
+<div align="center">
+  
+<a href="https://www.linkedin.com/in/samer-al-ashqar-4a4327253">
+  <img src="https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://www.tiktok.com/@samerpro_">
+  <img src="https://img.shields.io/badge/TikTok-black?style=for-the-badge&logo=tiktok&logoColor=white" />
+</a>
+
+<a href="https://www.youtube.com/@SamerPro_">
+  <img src="https://img.shields.io/badge/YouTube-black?style=for-the-badge&logo=youtube&logoColor=white" />
+</a>
+
+<a href="https://samerpro.com">
+  <img src="https://img.shields.io/badge/SamerPro.com-black?style=for-the-badge&logo=googlechrome&logoColor=white" />
+</a>
+
+</div>
+
+
+
+
+<br> <br>
+
+<img
+  src="Imgs/wolf-7.gif"
+  align="right"
+  alt="Great wolf"
+  height="180"
+/>
+
+ <br>
+<br>  
+<div align="left">
+<p><img src="/Imgs/coding.png" width="22" align="center" /> Front-End Developer | Full-Stack Capable</p>
+<p><img src="/Imgs/certificate.png" width="28" align="top" /> B.Sc. IT Student (Web Development)</p>
+ <p><img src="/Imgs/target.png" width="22" align="center" /> Modern, High-Performance Web Applications</p>
+
+</div>
+<br> <br>
+
+<h2 align="center"><img src="/Imgs/stacked-layers-2.png" align="center" width="25" /> Tech stack</h2>
 
 <p align="center">
-  <i>"Thank you for visiting my profile!"</i>
-</p>
+  <img src="https://img.shields.io/badge/HTML-black?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS-black?style=for-the-badge&logo=css&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-black?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-black?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-black?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/Shadcn%2Fui-black?style=for-the-badge&logo=shadcnui&logoColor=white" />
+  <img src="https://img.shields.io/badge/GSAP-black?style=for-the-badge&logo=greensock&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-black?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/jQuery-black?style=for-the-badge&logo=jquery&logoColor=white" />
+    <img src="https://img.shields.io/badge/Node.js-black?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-black?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-black?style=for-the-badge&logo=mongodb&logoColor=white" />
+    <img src="https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google%20Cloud-black?style=for-the-badge&logo=googlecloud&logoColor=white" />
+</p> 
 
----
-
-**Frontend**
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jquery&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Shadcn/ui-000000?style=flat&logo=shadcnui&logoColor=white"/>
-</p>
-
-**Backend & Tools**
-<p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GCP-4285F4?style=flat&logo=google-cloud&logoColor=white"/>
-</p>
-
-**Media**
-<p>
-  <img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=flat&logo=adobepremierepro&logoColor=white"/>
-  <img src="https://img.shields.io/badge/DaVinci%20Resolve-1A1A1A?style=flat&logo=blackmagicdesign&logoColor=white"/>
-</p>
-
----
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=SamerPro-115&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SamerPro-115&days=45&custom_title=Samer%27s%20Contribution%20Graph&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&area_color=ffffff&title_color=ffffff&hide_border=true" />
 </p>
 
----
-<p align="center">
-  <a href="https://www.tiktok.com/@samerpro_" target="_blank">
-    <img src="https://img.shields.io/badge/TikTok-%40samerpro_-000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok Badge"/>
-  </a>
-  <a href="https://www.youtube.com/@SamerPro_" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-%40SamerPro_-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Badge"/>
-  </a>
-  <a href="https://www.linkedin.com/in/samer-alashqar-4a4327253" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Samer_Alashqar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-</p>
+<div align="center">
+  
+<img height="160em" src="https://streak-stats.demolab.com/?user=SamerPro-115&hide_border=true&background=000000&border=000000&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff" />
 
----
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SamerPro-115&label=Profile%20Views&color=ff0050&style=flat" alt="Profile Views"/>
-</p>
+
+<img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=SamerPro-115&show_icons=true&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff" />
+
+</div>
