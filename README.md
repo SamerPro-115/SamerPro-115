@@ -37,7 +37,7 @@
 
  <br>
 <br>  
-<div align="left">
+<div align="center">
 <p><img src="/Imgs/coding.png" width="22" align="center" /> Front-End Developer | Full-Stack Capable</p>
 <p><img src="/Imgs/certificate.png" width="28" align="top" /> B.Sc. IT Student (Web Development)</p>
  <p><img src="/Imgs/target.png" width="22" align="center" /> Modern, High-Performance Web Applications</p>
