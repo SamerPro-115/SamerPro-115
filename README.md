@@ -76,7 +76,9 @@
 <img height="160em" src="https://streak-stats.demolab.com/?user=SamerPro-115&hide_border=true&background=000000&border=000000&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff" />
 
 
-
-<img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=SamerPro-115&show_icons=true&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff" />
+<img
+  height="180em"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SamerPro-115&theme=dark&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&hide_border=true"
+/>
 
 </div>
